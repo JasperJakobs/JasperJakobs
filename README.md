@@ -8,6 +8,6 @@
 
 <p align="center">
   <a href="https://github.com/Jurredr/github-widgetbox">
-    <img width="70%" height="70%" src="https://github-widgetbox.vercel.app/api/skills/?name=js,java,php,html,css,csharp,xml,json,yaml,mysql,powershell,bash&includeNames=true" alt="GitHub WidgetBox" />
+    <img width="70%" height="70%" src="https://github-widgetbox.vercel.app/api/skills/?names=js,java,php,html,css,csharp,xml,json,yaml,mysql,powershell,bash&includeNames=true" alt="GitHub WidgetBox" />
   </a>
 </p>
